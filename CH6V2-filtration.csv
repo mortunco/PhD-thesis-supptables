@@ -1,0 +1,7 @@
+,Experiment0,Percentage
+TotalReads,"446,272,682",100.00%
+PostDropletProcess,"443,831,086",99.45%
+PostLibProcess,"352,530,111",78.99%
+PostBarcodeSwap,"319,743,299",71.65%
+PostDropletWhitelist,"314,067,408",70.38%
+UMI,"1,361,970",0.31%
